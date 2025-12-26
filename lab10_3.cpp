@@ -25,3 +25,4 @@ int main(){
     cout << "Standard deviation = " << sqrt((sum_of_square / count) - pow(sum / count, 2));
     return 0;
 }
+//push ไม่ได้ เลยเปลี่ยนมาแก้ในไฟล์แทน
